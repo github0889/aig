@@ -5,3 +5,4 @@ node {
    	stage 'Checkout'
       //GitHub
    		git url: 'https://github.com/github0889/aig.git'
+}
